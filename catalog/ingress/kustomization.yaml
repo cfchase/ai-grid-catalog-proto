@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
 - ../models/opt-125m/catalog
 - ../models/smollm2-chat/catalog
-- ../models/uat-smollm2/catalog
